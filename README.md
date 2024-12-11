@@ -23,6 +23,7 @@ My repository containing all links to interesting pages / repos and whatever may
 - Playwright tips playlists done by Checkly https://www.youtube.com/watch?v=hegZS46J0rA&list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc
 - Playwright tips and tricks, interview questions for Playwright etc https://blog.martioli.com/
 - Playwright awesome frameworks https://github.com/mxschmitt/awesome-playwright
+- Keeping storage sessions https://filiphric.com/how-to-do-authentication-in-playwright
 
 Interview questions: https://www.linkedin.com/feed/update/activity:7265708260731604992?trk=feed_main-feed-card_social-actions-comments
 
