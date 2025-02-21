@@ -19,6 +19,9 @@ My repository containing all links to interesting pages / repos and whatever may
 - Playwright discord https://discord.com/servers/playwright-807756831384403968
 - Playwright youtube channel
 
+### API
+- Guide how to do api testing with playwright - https://playwrightsolutions.com/is-it-possible-to-do-api-testing-with-playwright-the-definitive/
+
 ### Tips, tricks and nice tools
 - Playwright tips playlists done by Checkly https://www.youtube.com/watch?v=hegZS46J0rA&list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc
 - Playwright tips and tricks, interview questions for Playwright etc https://blog.martioli.com/
