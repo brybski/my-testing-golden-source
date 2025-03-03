@@ -22,6 +22,9 @@ My repository containing all links to interesting pages / repos and whatever may
 ### API
 - Guide how to do api testing with playwright - https://playwrightsolutions.com/is-it-possible-to-do-api-testing-with-playwright-the-definitive/
 
+### Debugging
+- linkedin post: https://www.linkedin.com/posts/qa-ducker_6-mastering-playwright-debugging-essential-activity-7302221970920636416-y1KT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGm13kBHI7AfOJ6D5yGv0gTlA5i7w-8cdk
+
 ### Tips, tricks and nice tools
 - Playwright tips playlists done by Checkly https://www.youtube.com/watch?v=hegZS46J0rA&list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc
 - Playwright tips and tricks, interview questions for Playwright etc https://blog.martioli.com/
