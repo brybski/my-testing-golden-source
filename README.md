@@ -32,6 +32,7 @@ My repository containing all links to interesting pages / repos and whatever may
 - Keeping storage sessions https://filiphric.com/how-to-do-authentication-in-playwright
 - Playwright repo that can be reused: https://github.com/debs-obrien/playwright-movies-app
 - performance testing examples https://github.com/hrmeetsingh/playwright-perf-test
+- eslint and prettier configuration for PW https://medium.com/@kryo/the-ultimate-2025-eslint-prettier-pre-commit-setup-for-playwright-typescript-test-automation-270a20658a96 
 
 Interview questions: https://www.linkedin.com/feed/update/activity:7265708260731604992?trk=feed_main-feed-card_social-actions-comments
 
