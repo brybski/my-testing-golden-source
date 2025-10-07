@@ -35,6 +35,7 @@ My repository containing all links to interesting pages / repos and whatever may
 - eslint and prettier configuration for PW https://medium.com/@kryo/the-ultimate-2025-eslint-prettier-pre-commit-setup-for-playwright-typescript-test-automation-270a20658a96 
 - vscode - how to use https://timdeschryver.dev/blog/my-recommendations-to-configure-visual-studio-code-for-angular-development
 Interview questions: https://www.linkedin.com/feed/update/activity:7265708260731604992?trk=feed_main-feed-card_social-actions-comments
+- 2FA in Playwright https://filiphric.com/2fa-testing-with-playwright-and-mailosaur?trk=comments_comments-list_comment-text
 
 ## Manual testing and helpful tools
 - DevTools features for better debugging: https://www.thegreenreport.blog/articles/7-chrome-devtools-features-for-smarter-debugging/7-chrome-devtools-features-for-smarter-debugging.html
