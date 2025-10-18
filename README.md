@@ -36,6 +36,7 @@ My repository containing all links to interesting pages / repos and whatever may
 - vscode - how to use https://timdeschryver.dev/blog/my-recommendations-to-configure-visual-studio-code-for-angular-development
 Interview questions: https://www.linkedin.com/feed/update/activity:7265708260731604992?trk=feed_main-feed-card_social-actions-comments
 - 2FA in Playwright https://filiphric.com/2fa-testing-with-playwright-and-mailosaur?trk=comments_comments-list_comment-text
+- interesting mixin pattern to create framework https://idavidov.eu/upgrade-playwright-tests-typescript-mixin-design-pattern-guide
 
 ## Manual testing and helpful tools
 - DevTools features for better debugging: https://www.thegreenreport.blog/articles/7-chrome-devtools-features-for-smarter-debugging/7-chrome-devtools-features-for-smarter-debugging.html
