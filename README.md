@@ -24,7 +24,8 @@ My repository containing all links to interesting pages / repos and whatever may
 
 ### Debugging
 - linkedin post: https://www.linkedin.com/posts/qa-ducker_6-mastering-playwright-debugging-essential-activity-7302221970920636416-y1KT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACGm13kBHI7AfOJ6D5yGv0gTlA5i7w-8cdk
-
+- web performance, debugging in console
+  https://www.debugbear.com/blog/chrome-devtools-throttle-individual-request?trk=feed-detail_comments-list_comment-text
 ### Tips, tricks and nice tools
 - Playwright tips playlists done by Checkly https://www.youtube.com/watch?v=hegZS46J0rA&list=PLMZDRUOi3a8NtMq3PUS5iJc2pee38rurc
 - Playwright tips and tricks, interview questions for Playwright etc https://blog.martioli.com/
