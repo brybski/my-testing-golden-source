@@ -38,6 +38,8 @@ My repository containing all links to interesting pages / repos and whatever may
 Interview questions: https://www.linkedin.com/feed/update/activity:7265708260731604992?trk=feed_main-feed-card_social-actions-comments
 - 2FA in Playwright https://filiphric.com/2fa-testing-with-playwright-and-mailosaur?trk=comments_comments-list_comment-text
 - interesting mixin pattern to create framework https://idavidov.eu/upgrade-playwright-tests-typescript-mixin-design-pattern-guide
+- AI visual testing https://dev.to/philipfong/using-ai-in-playwright-tests-35od?utm_source=substack&utm_medium=email
+- creating user snippets - https://idavidov.eu/building-playwright-framework-step-by-step-create-user-snippets?trk=feed_main-feed-card_comment-text
 
 ## Manual testing and helpful tools
 - DevTools features for better debugging: https://www.thegreenreport.blog/articles/7-chrome-devtools-features-for-smarter-debugging/7-chrome-devtools-features-for-smarter-debugging.html
